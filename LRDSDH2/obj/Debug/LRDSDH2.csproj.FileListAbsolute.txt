@@ -1,0 +1,21 @@
+C:\Users\Dimasik\source\repos\LRDSDH2\LRDSDH2\bin\Debug\LRDSDH2.exe.config
+C:\Users\Dimasik\source\repos\LRDSDH2\LRDSDH2\bin\Debug\LRDSDH2.exe
+C:\Users\Dimasik\source\repos\LRDSDH2\LRDSDH2\bin\Debug\LRDSDH2.pdb
+C:\Users\Dimasik\source\repos\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.csprojResolveAssemblyReference.cache
+C:\Users\Dimasik\source\repos\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.csproj.CoreCompileInputs.cache
+C:\Users\Dimasik\source\repos\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.exe
+C:\Users\Dimasik\source\repos\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.pdb
+E:\Programs_year_2\DS\LRDSDH2\LRDSDH2\LRDSDH2\bin\Debug\LRDSDH2.exe.config
+E:\Programs_year_2\DS\LRDSDH2\LRDSDH2\LRDSDH2\bin\Debug\LRDSDH2.exe
+E:\Programs_year_2\DS\LRDSDH2\LRDSDH2\LRDSDH2\bin\Debug\LRDSDH2.pdb
+E:\Programs_year_2\DS\LRDSDH2\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.csprojAssemblyReference.cache
+E:\Programs_year_2\DS\LRDSDH2\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.csproj.CoreCompileInputs.cache
+E:\Programs_year_2\DS\LRDSDH2\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.exe
+E:\Programs_year_2\DS\LRDSDH2\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.pdb
+E:\Programs_year_2\1 семестр\DS\LRDSDH2\LRDSDH2\LRDSDH2\bin\Debug\LRDSDH2.exe.config
+E:\Programs_year_2\1 семестр\DS\LRDSDH2\LRDSDH2\LRDSDH2\bin\Debug\LRDSDH2.exe
+E:\Programs_year_2\1 семестр\DS\LRDSDH2\LRDSDH2\LRDSDH2\bin\Debug\LRDSDH2.pdb
+E:\Programs_year_2\1 семестр\DS\LRDSDH2\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.csprojAssemblyReference.cache
+E:\Programs_year_2\1 семестр\DS\LRDSDH2\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.csproj.CoreCompileInputs.cache
+E:\Programs_year_2\1 семестр\DS\LRDSDH2\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.exe
+E:\Programs_year_2\1 семестр\DS\LRDSDH2\LRDSDH2\LRDSDH2\obj\Debug\LRDSDH2.pdb
